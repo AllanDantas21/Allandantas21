@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allandantas21&layout=compact&hide_border=true&title_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align="center"> 
 [![aldantas's 42 stats](https://badge.mediaplus.ma/levi/aldantas?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
