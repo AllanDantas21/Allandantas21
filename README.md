@@ -1,7 +1,7 @@
 <div style="text-align: center;">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=140&section=header"/>
 
-  <a href="https://git.io/typing-svg">
+  <a href="https://allandantas.vercel.app">
     <img src="https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Allan+Dantas;Tenho+20+Anos;E+estou+cursando+Engenharia+de+Software;Na+42Rio+:%29" alt="Typing SVG">
   </a>
 
