@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
   <a href="https://allandantas.vercel.app">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Allan.;+I'm+a+software+engineering+student;+And+self-taught+in+mathematics.+:%29" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Allan.;+I'm+a+software+engineering+student+:%29" alt="Typing SVG">
   </a>
 
   <div align="center">
